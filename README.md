@@ -1,4 +1,4 @@
-<h1 align="center">👋 게임 클라이언트 프로그래머 지망생 윤동주</h1>
+<h1 align="center">👋 게임 클라이언트 프로그래머 지망생</h1>
 <p align="center">C++ · C# · DirectX · Unity · Unreal</p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sohyang4594)](https://solved.ac/sohyang4594/)
